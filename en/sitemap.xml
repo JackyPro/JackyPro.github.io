@@ -20,16 +20,8 @@
                 href="https://example.com/"
                 />
   </url><url>
-    <loc>https://example.com/p/my-first-post/</loc>
-    <lastmod>2022-07-23T21:48:53+08:00</lastmod>
-  </url><url>
-    <loc>https://example.com/p/my-first-post/</loc>
-    <lastmod>2022-07-23T21:48:53+08:00</lastmod>
-  </url><url>
-    <loc>https://example.com/post/</loc>
-    <lastmod>2022-07-23T21:48:53+08:00</lastmod>
-  </url><url>
     <loc>https://example.com/categories/</loc>
+    <lastmod>2022-07-23T21:48:53+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -45,6 +37,15 @@
                 hreflang="en"
                 href="https://example.com/categories/"
                 />
+  </url><url>
+    <loc>https://example.com/p/my-first-post/</loc>
+    <lastmod>2022-07-23T21:48:53+08:00</lastmod>
+  </url><url>
+    <loc>https://example.com/post/</loc>
+    <lastmod>2022-07-23T21:48:53+08:00</lastmod>
+  </url><url>
+    <loc>https://example.com/categories/test/</loc>
+    <lastmod>2022-07-23T21:48:53+08:00</lastmod>
   </url><url>
     <loc>https://example.com/tags/</loc>
     <xhtml:link

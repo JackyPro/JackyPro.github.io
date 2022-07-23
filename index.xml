@@ -14,14 +14,6 @@
         <guid>https://example.com/p/my-first-post/</guid>
         <description></description>
         </item>
-        <item>
-        <title>My First Post</title>
-        <link>https://example.com/p/my-first-post/</link>
-        <pubDate>Sat, 23 Jul 2022 21:48:53 +0800</pubDate>
-        
-        <guid>https://example.com/p/my-first-post/</guid>
-        <description></description>
-        </item>
         
     </channel>
 </rss>
