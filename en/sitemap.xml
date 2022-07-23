@@ -20,10 +20,13 @@
                 href="https://example.com/"
                 />
   </url><url>
-    <loc>https://example.com/p/my-first-post/</loc>
+    <loc>https://example.com/posts/test/my-first-post/</loc>
     <lastmod>2022-07-23T21:48:53+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/</loc>
+    <loc>https://example.com/posts/test/my-second-post/</loc>
+    <lastmod>2022-07-23T21:48:53+08:00</lastmod>
+  </url><url>
+    <loc>https://example.com/posts/</loc>
     <lastmod>2022-07-23T21:48:53+08:00</lastmod>
   </url><url>
     <loc>https://example.com/categories/</loc>
