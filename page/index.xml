@@ -1,20 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>JackyPro</title>
-        <link>https://example.com/</link>
-        <description>Recent content on JackyPro</description>
+        <title>Pages on JackyPro</title>
+        <link>https://example.com/page/</link>
+        <description>Recent content in Pages on JackyPro</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sat, 23 Jul 2022 21:48:53 +0800</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>My First Post</title>
-        <link>https://example.com/p/my-first-post/</link>
-        <pubDate>Sat, 23 Jul 2022 21:48:53 +0800</pubDate>
-        
-        <guid>https://example.com/p/my-first-post/</guid>
-        <description></description>
-        </item>
-        <item>
+        <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/page/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Archives</title>
         <link>https://example.com/archives/</link>
         <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
