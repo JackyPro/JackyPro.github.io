@@ -12,7 +12,9 @@
         <pubDate>Sat, 23 Jul 2022 21:48:53 +0800</pubDate>
         
         <guid>https://example.com/p/my-first-post/</guid>
-        <description></description>
+        <description>&lt;h1 id=&#34;hello-my-name-is-jacky&#34;&gt;Hello my name is jacky.&lt;/h1&gt;
+&lt;h1 id=&#34;你好我叫jacky&#34;&gt;你好我叫jacky。&lt;/h1&gt;
+</description>
         </item>
         
     </channel>
