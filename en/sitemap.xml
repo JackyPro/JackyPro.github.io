@@ -2,107 +2,107 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/</loc>
+    <loc>https://JackyPro.github.io/</loc>
     <lastmod>2022-07-23T21:48:53+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.com/zh-cn/"
+                href="https://JackyPro.github.io/zh-cn/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://example.com/ar/"
+                href="https://JackyPro.github.io/ar/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/"
+                href="https://JackyPro.github.io/"
                 />
   </url><url>
-    <loc>https://example.com/categories/</loc>
+    <loc>https://JackyPro.github.io/categories/</loc>
     <lastmod>2022-07-23T21:48:53+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.com/zh-cn/categories/"
+                href="https://JackyPro.github.io/zh-cn/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://example.com/ar/categories/"
+                href="https://JackyPro.github.io/ar/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/categories/"
+                href="https://JackyPro.github.io/categories/"
                 />
   </url><url>
-    <loc>https://example.com/p/my-first-post/</loc>
+    <loc>https://JackyPro.github.io/p/my-first-post/</loc>
     <lastmod>2022-07-23T21:48:53+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/</loc>
+    <loc>https://JackyPro.github.io/post/</loc>
     <lastmod>2022-07-23T21:48:53+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/categories/test/</loc>
+    <loc>https://JackyPro.github.io/categories/test/</loc>
     <lastmod>2022-07-23T21:48:53+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/archives/</loc>
+    <loc>https://JackyPro.github.io/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/page/</loc>
+    <loc>https://JackyPro.github.io/page/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.com/zh-cn/page/"
+                href="https://JackyPro.github.io/zh-cn/page/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/page/"
+                href="https://JackyPro.github.io/page/"
                 />
   </url><url>
-    <loc>https://example.com/about/</loc>
+    <loc>https://JackyPro.github.io/about/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.com/zh-cn/%E5%85%B3%E4%BA%8E/"
+                href="https://JackyPro.github.io/zh-cn/%E5%85%B3%E4%BA%8E/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/about/"
+                href="https://JackyPro.github.io/about/"
                 />
   </url><url>
-    <loc>https://example.com/categories/ai/</loc>
+    <loc>https://JackyPro.github.io/categories/ai/</loc>
   </url><url>
-    <loc>https://example.com/categories/eda/</loc>
+    <loc>https://JackyPro.github.io/categories/eda/</loc>
   </url><url>
-    <loc>https://example.com/categories/hdl/</loc>
+    <loc>https://JackyPro.github.io/categories/hdl/</loc>
   </url><url>
-    <loc>https://example.com/links/</loc>
+    <loc>https://JackyPro.github.io/links/</loc>
   </url><url>
-    <loc>https://example.com/search/</loc>
+    <loc>https://JackyPro.github.io/search/</loc>
   </url><url>
-    <loc>https://example.com/categories/software/</loc>
+    <loc>https://JackyPro.github.io/categories/software/</loc>
   </url><url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://JackyPro.github.io/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.com/zh-cn/tags/"
+                href="https://JackyPro.github.io/zh-cn/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://example.com/ar/tags/"
+                href="https://JackyPro.github.io/ar/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tags/"
+                href="https://JackyPro.github.io/tags/"
                 />
   </url>
 </urlset>

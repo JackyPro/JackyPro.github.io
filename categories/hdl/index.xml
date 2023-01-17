@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>HDL on JackyPro</title>
-        <link>https://example.com/categories/hdl/</link>
+        <link>https://JackyPro.github.io/categories/hdl/</link>
         <description>Recent content in HDL on JackyPro</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language><atom:link href="https://example.com/categories/hdl/index.xml" rel="self" type="application/rss+xml" />
+        <language>en-us</language><atom:link href="https://JackyPro.github.io/categories/hdl/index.xml" rel="self" type="application/rss+xml" />
     </channel>
 </rss>
