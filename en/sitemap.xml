@@ -76,9 +76,17 @@
                 href="https://example.com/about/"
                 />
   </url><url>
+    <loc>https://example.com/categories/ai/</loc>
+  </url><url>
+    <loc>https://example.com/categories/eda/</loc>
+  </url><url>
+    <loc>https://example.com/categories/hdl/</loc>
+  </url><url>
     <loc>https://example.com/links/</loc>
   </url><url>
     <loc>https://example.com/search/</loc>
+  </url><url>
+    <loc>https://example.com/categories/software/</loc>
   </url><url>
     <loc>https://example.com/tags/</loc>
     <xhtml:link
